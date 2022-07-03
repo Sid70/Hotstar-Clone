@@ -431,9 +431,8 @@ body {
     /* Carousal */
     .caraousal-container {
         width: 100%;
-        height: 100px;
+        height: 10px;
         padding: 20px 0px;
-        border: 2px solid red;
     }
 
     .caraousal {
@@ -443,18 +442,15 @@ body {
         height: 10px;
         position: relative;
         margin: auto;
-        border: 2px solid red;
     }
 
     .slider {
         width: 100%;
-        height: 100%;
-        left: 0;
-        object-fit: cover;
+        height: 70%;
     }
 
     .slider img {
-        width: fit-content;
+        width: 100%;
         min-height: 100%;
         display: block;
         margin-left: auto;
@@ -470,8 +466,9 @@ body {
 
     .video-card-container {
         width: 92%;
-        flex-wrap: wrap;
-        height: 200px;
+        height:1000px;
+        flex-direction: column;
+        margin-top: -90px;
     }
 
     .video-card {
@@ -494,7 +491,7 @@ body {
 
 
     .container {
-        padding-bottom: 875px;
+        margin-top: -10px;
     }
 
     /* Recommended and popular */
@@ -548,12 +545,6 @@ body {
     .card:hover .card-body {
         opacity: 1;
     }
-
-
-
-
-
-
 }
 
 @media (max-width:768px) {
@@ -602,7 +593,4 @@ body {
     .slider-content {
         display: none;
     }
-
-
-
 }
