@@ -1,22 +1,22 @@
 let movies = [
     {
-        name:"Loka",
-        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio, iusto quisquam accusamus mollitia accusantium, optio dolorem velit.",
+        name:"Lorem Ipsum",
+        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio.",
         image:"Img/slider 2.png"
     },
     {
-        name:"Loki",
-        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio,.",
+        name:"Lorem Ipsum",
+        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio.",
         image:"Img/slider 3.png"
     },
     {
-        name:"Moca",
-        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio, iusto quisquam accusamus mollitia accusantium, optio dolorem velit.",
+        name:"Lorem Ipsum",
+        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio.",
         image:"Img/slider 4.png"
     },
     {
-        name:"Luca",
-        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio, iusto quisquam accusamus mollitia accusantium, optio dolorem velit.",
+        name:"Lorem Ipsum",
+        des:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dignissimos nobis animi veniam nisi ipsam facilis placeat doloremque, distinctio.",
         image:"Img/slider 5.png"
     }
 ];
